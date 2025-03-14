@@ -50,3 +50,11 @@ self.Atributo2 = valor2
     - Puedes definir tantos atributos como necesites.
     - Puedes definir tantos metodos como necesites.
     - Puedes definir tantos parametros en el constructor y en los metodos como necesites
+
+## Comṕosicion
+- Consiste en la creacion de nueva clases apartir de clases ya existentes que actuan compociciones nuevos de la nueva
+-las clases exixtentes seran atributos de la nueva clase
+-en (POO) la composicion significaque entre las 2 clases existe una relacion tipo "ya tienes.."
+- Ejemplo:
+    -una cordenada en 2 dimenciones esta compuesta por 2 valores, el valor en el eje de las y, esto podria ser una clase. Un cuadrado esta compuesto por 4 cordenadas que son los 4 vertices, esto podria ser una clase que esta compuesta por 4 clases del objeto ordenada.
+    
